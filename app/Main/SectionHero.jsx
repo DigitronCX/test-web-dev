@@ -117,7 +117,7 @@ export const SectionHero = () => {
             <div className="hero-textbox">
               <div className="hero-titlebox">
                 <div className="hero-titlebox-gradient" />
-                <h1 className="headline hero-headline white" ref={titleRef} >Transform Your Digital Dreams Into <br /> Reality</h1>
+                <h1 className="headline hero-headline white" ref={titleRef} >Where Ideas Become Scalable <br /> Businesses</h1>
               </div>
               <p className="big-description grey opacity-blur" ref={descriptionRef} >Harnessing Cutting-Edge Visualization Technology to Transform Vision into Tailored Digital Reality</p>
             </div>
