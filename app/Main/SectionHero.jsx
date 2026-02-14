@@ -117,7 +117,7 @@ export const SectionHero = () => {
             <div className="hero-textbox">
               <div className="hero-titlebox">
                 <div className="hero-titlebox-gradient" />
-                <h1 className="headline hero-headline white" ref={titleRef} >Where Ideas Become<br /> Scalable Businesses</h1>
+                <h1 className="headline hero-headline white" ref={titleRef} >Designing<br /> Scalable Businesses</h1>
               </div>
               <p className="big-description grey opacity-blur" ref={descriptionRef} > DCX empowers businesses to design scalable high performance digital tech solutions globally
 </p>
